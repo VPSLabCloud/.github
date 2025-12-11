@@ -1,15 +1,10 @@
----
-name: VPSLab
-description: Privacy-focused VPS hosting built on our own infrastructure. Fast deployment, reliable performance, and user-first design.
-image: https://i.ibb.co/7Jy7Bwfk/metadata-2.jpg
----
-
 # VPSLab
 
 Privacy-focused VPS hosting built on our own infrastructure.
 
 VPSLab delivers fast, reliable, and private virtual servers with instant deployment. We operate our own hardware, maintain strict privacy standards, and focus on providing a clean, performant experience for developers, teams, and businesses.
 
+[![VPSLab Banner](https://i.ibb.co/7Jy7Bwfk/metadata-2.jpg)](https://vpslab.cloud)
 ---
 
 ## What We Offer
